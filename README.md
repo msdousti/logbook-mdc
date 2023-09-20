@@ -1,6 +1,7 @@
 # logbook-mdc
 
-A minimal project showing how logbook can incorporate SLF4j's MDC
+A minimal project showing how Logbook honors SLF4J's MDC, in response
+to [issue 1625](https://github.com/zalando/logbook/issues/1625).
 
 ## How to run
 
